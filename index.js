@@ -262,7 +262,7 @@ function enableShadowForModel(root) {
 
 function createDarkWarrior(){
     gltfLoader.load(
-        "../assets/models/momonga_ainz_ooal_gown/scene.gltf",
+      "./assets/models/momonga_ainz_ooal_gown/scene.gltf",
         (gltf) => {
             darkWarrior = gltf.scene;
             enableShadowForModel(darkWarrior);
