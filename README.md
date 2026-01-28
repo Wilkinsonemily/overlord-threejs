@@ -1,5 +1,10 @@
 # OVerlord – Three.js Computer Graphics Project
 
+## 🌐 Live Demo
+👉 https://wilkinsonemily.github.io/overlord-threejs/
+
+---
+
 ## Project Overview
 **OVerlord** is a 3D computer graphics project built using the **Three.js** library.  
 The project showcases a dark fantasy scene featuring a **Dark Warrior** and a **giant battle hamster** inside an interactive 3D environment.
@@ -41,24 +46,25 @@ This project was developed as part of a **Computer Graphics** course, with an em
 ---
 
 ## Lighting System
-- Ambient Light for global illumination
-- Directional Light for directional shading
-- Spotlight for focused lighting
-- Point Light for magical spell effect
+- Ambient Light for global illumination  
+- Directional Light for directional shading  
+- Spotlight for focused lighting  
+- Point Light for magical spell effect  
 
 ---
 
-## How to Run the Project
+## How to Run the Project Locally
 ```bash
-# Open the project folder in terminal / CMD
+# Open the project folder
 cd overlord-threejs
 
 # Start a local server
 python -m http.server
 
-# Open the project in a browser
+# Open in browser
 http://localhost:8000
 ```
+
 ## Contributions
 
 - **Jessica Alhena Joprang**  
